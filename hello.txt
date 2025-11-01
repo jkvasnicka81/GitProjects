@@ -8,3 +8,5 @@ Znovu udělám další řádek pro features a commitnu a bude jen ve features.
 Zde pracuju pouze se změnami pro features. To je ale hodně našlápnuté... Můžu mít pouze jeden file, který se mi mění podle toho, v jaké větvi zrovna jsem...
 
 Btw. zkusím se nyní přepnout do jiné větve, když je tento soubor změněn a trackován. Jestli to půjde.
+
+Nešlo to. Musel bych provést add a commit, ale uložil jsem to do stashe a potom vrátil přes git stash apply a kupodivu to fungovalo. 
