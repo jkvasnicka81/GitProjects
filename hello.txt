@@ -1,1 +1,2 @@
 hello world
+Nový řádek pro test.
