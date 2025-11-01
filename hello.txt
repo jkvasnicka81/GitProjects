@@ -2,3 +2,4 @@ hello world
 Nový řádek pro test.
 test vetvi
 Toto chci poslat pouze do větve features.
+Znovu udělám další řádek pro features a commitnu a bude jen ve features.
