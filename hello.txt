@@ -1,3 +1,4 @@
 hello world
 Nový řádek pro test.
 test vetvi
+Nyní jsem přidal řádek pouze pro features2
